@@ -13,7 +13,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-![Snake animation](https://github.com/Elifelete-Cavalcante20/Elifelete-Cavalcante20/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos: 
 
