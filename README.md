@@ -1,6 +1,6 @@
 # Olá! Eu sou Eli 😁
 <div>
-  <a href="www.github.com/Elifelete-Cavalcante20">
+  <a href="https://github.com/Elifelete-Cavalcante20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elifelete-Cavalcante20&layout-compact_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elifelete-Cavalcante20&layout-compact&langs_count=168&theme=dark"/>
   </div> 
