@@ -1,10 +1,14 @@
 # Olá! Eu sou Eli 😁
 <div>
-  <a href="https://github.com/Elifelete-Cavalcante20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elifelete-Cavalcante20&show_icons=true&layout-compact_icons=true&theme=vision-friendly-dark&include_all_commits-true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elifelete-Cavalcante20&layout-compact&langs_count=168&theme=vision-friendly-dark&include_all_commits-true&count_private=true"/>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Elifelete-Cavalcante20&theme=great-gatsby"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elifelete-Cavalcante20&theme=great-gatsby&layout=compact&langs_count=8&count_private=true&card_width=320" />
+</a>
   </div> 
-    
+
+  
 ## Estudando No Momento:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
