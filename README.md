@@ -1,17 +1,19 @@
-# Olá! Eu sou Eli 😁
+# Olá, Eu me chamo Elifelete. <br>  Seja bem-vindo ao meu perfil no GitHub 😁
 <div>
  <a href="https://github.com/Elifelete-Cavalcante20">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Elifelete-Cavalcante20&theme=great-gatsby&layout=compact&langs_count=8&count_private=true&card_width=320"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Elifelete-Cavalcante20&theme=great-gatsby&layout=compact&langs_count=8&count_private=true&card_width=290"/>
 </a>
 <a href="https://github.com/Elifelete-Cavalcante20">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elifelete-Cavalcante20&theme=great-gatsby&layout=compact&langs_count=8&count_private=true&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elifelete-Cavalcante20&theme=great-gatsby&layout=compact&langs_count=8&count_private=true&card_width=310" />
 </a>
   </div> 
 
   
 ## Estudando No Momento:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black&labelColor=white)
+
+
 
 
 ## Contatos: 
