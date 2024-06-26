@@ -1,9 +1,9 @@
 # Olá! Eu sou Eli 😁
 <div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Elifelete-Cavalcante20&theme=great-gatsby"/>
+ <a href="https://github.com/Elifelete-Cavalcante20">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Elifelete-Cavalcante20&theme=great-gatsby&layout=compact&langs_count=8&count_private=true&card_width=320"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Elifelete-Cavalcante20">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elifelete-Cavalcante20&theme=great-gatsby&layout=compact&langs_count=8&count_private=true&card_width=320" />
 </a>
   </div> 
@@ -11,7 +11,7 @@
   
 ## Estudando No Momento:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 ## Contatos: 
