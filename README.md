@@ -1,4 +1,4 @@
-# HY EVERYONE! <br>  WELCOME TO MY GITHUB PROFILE! 
+# OLÁ! <br>  BEM-VINDO AO MEU PERIFL DO GITHUB! 
 <div align="center">
   <a href="https://github.com/Elifelete-Cavalcante20">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=Elifelete-Cavalcante20&theme=holi&show_icons=true&count_private=true&rank_icon=github" />
